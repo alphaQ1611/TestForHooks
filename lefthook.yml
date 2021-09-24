@@ -33,6 +33,6 @@
 #     "any.go":
 #       runner: go run
 pre-receive:
-  scrips:
+  scripts:
     "template_checker":
       runner: python
