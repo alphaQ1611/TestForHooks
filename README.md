@@ -1,2 +1,2 @@
-# TestForHooksAgain
+# TestForHooks
 Test for Git hooks
